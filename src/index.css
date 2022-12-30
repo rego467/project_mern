@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Candal&family=Catamaran:wght@200;300;400;500&family=Roboto+Slab:wght@100;400&display=swap');
+
+body {
+  margin: 0;
+}
+
+ul li Link{
+  font-family: 'Catamaran', sans-serif;
+  font-size: 5rem;
+}
+
+

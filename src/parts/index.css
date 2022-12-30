@@ -1,0 +1,10 @@
+.active{
+  text-decoration: underline;
+  font-weight: bold;
+  background-color: rgb(144, 224, 198);
+  border-radius: 10px;
+}
+
+li{
+  margin: 0 1rem;
+}
